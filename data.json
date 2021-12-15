@@ -1,0 +1,243 @@
+{
+    "crop": [
+        {
+            "name": "cauliflower", 
+            "season": "spring",
+            "cost": 80,
+            "value": 175,
+            "time_to_harvest": 12
+        },
+        {
+            "name": "coffee bean",
+            "season": "spring",
+            "cost": 2500,
+            "value": 15,
+            "time_to_harvest": 10
+        },
+        {
+            "name": "garlic",
+            "season": "spring",
+            "cost": 40,
+            "value": 60,
+            "time_to_harvest": 4
+        },
+        {
+            "name": "kale",
+            "season": "spring",
+            "cost": 70,
+            "value": 110,
+            "time_to_harvest": 6
+        },
+        {
+            "name": "parsnip",
+            "season": "spring",
+            "cost": 20,
+            "value": 35,
+            "time_to_harvest": 4
+        },
+        {
+            "name": "potato",
+            "season": "spring",
+            "cost": 50,
+            "value": 80,
+            "time_to_harvest": 6
+        },
+        {
+            "name": "melon",
+            "season": "summer",
+            "cost": 80,
+            "value": 250,
+            "time_to_harvest": 12
+        },
+        {
+            "name": "hot pepper",
+            "season": "summer",
+            "cost": 40,
+            "value": 40,
+            "time_to_harvest": 5
+        },
+        {
+            "name": "radish",
+            "season": "summer",
+            "cost": 40,
+            "value": 90,
+            "time_to_harvest": 6
+        },
+        {
+            "name": "red cabbage",
+            "season": "summer",
+            "cost": 100,
+            "value": 260,
+            "time_to_harvest": 9
+        },
+        {
+            "name": "starfruit",
+            "season": "summer",
+            "cost": 400,
+            "value": 750,
+            "time_to_harvest": 13
+        },
+        {
+            "name": "sunflower",
+            "season": "summer",
+            "cost": 200,
+            "value": 80,
+            "time_to_harvest": 8
+        },
+        {
+            "name": "wheat",
+            "season": "summer",
+            "cost": 10,
+            "value": 25,
+            "time_to_harvest": 4
+        },
+        {
+            "name": "pumpkin",
+            "season": "fall",
+            "cost": 100,
+            "value": 320,
+            "time_to_harvest": 13
+        },
+        {
+            "name": "amaranth",
+            "season": "fall",
+            "cost": 70,
+            "value": 150,
+            "time_to_harvest": 7
+        },
+        {
+            "name": "artichoke",
+            "season": "fall",
+            "cost": 30,
+            "value": 160,
+            "time_to_harvest": 8
+        },
+        {
+            "name": "beet",
+            "season": "fall",
+            "cost": 20,
+            "value": 100,
+            "time_to_harvest": 6
+        },
+        {
+            "name": "bok choy",
+            "season": "fall",
+            "cost": 50,
+            "value": 80,
+            "time_to_harvest": 4
+        },
+        {
+            "name": "eggplant",
+            "season": "fall",
+            "cost": 20,
+            "value": 60,
+            "time_to_harvest": 5
+        },
+        {
+            "name": "yam",
+            "season": "fall",
+            "cost": 60,
+            "value": 160,
+            "time_to_harvest": 10
+        }
+    ],
+    "coop": [
+        {
+            "name": "chicken",
+            "cost": 800,
+            "value": 50,
+            "time_to_harvest": 1,
+            "minimum_coop_size": 1
+        },
+        {
+            "name": "duck",
+            "cost": 1200,
+            "value": 95,
+            "time_to_harvest": 2,
+            "minimum_coop_size": 2
+        },
+        {
+            "name": "rabbit",
+            "cost": 8000,
+            "value": 340,
+            "time_to_harvest": 4,
+            "minimum_coop_size": 3
+        },
+        {
+            "name": "dinosaurs",
+            "cost": 99999,
+            "value": 350,
+            "time_to_harvest": 7,
+            "minimum_coop_size": 2
+        }
+    ],
+    "barn": [
+        {
+            "name": "cow",
+            "cost": 1500,
+            "value": 125,
+            "time_to_harvest": 1,
+            "minimum_barn_size": 1
+        },
+        {
+            "name": "goat",
+            "cost": 4000,
+            "value": 225,
+            "time_to_harvest": 2,
+            "minimum_barn_size": 2
+        },
+        {
+            "name": "sheep",
+            "cost": 8000,
+            "value": 340,
+            "time_to_harvest": 3,
+            "minimum_barn_size": 3
+        },
+        {
+            "name": "pig",
+            "cost": 16000,
+            "value": 625,
+            "time_to_harvest": 0.33,
+            "minimum_barn_size": 3
+        },
+        {
+            "name": "ostrich",
+            "cost": 99999,
+            "value": 600,
+            "time_to_harvest": 7,
+            "minimum_barn_size": 1
+        }
+    ],
+    "fish": [
+        {
+            "name": "sturgeon",
+            "value": 130,
+            "chance_to_harvest": 1.425
+        },
+        {
+            "name": "lava eel",
+            "value": 380,
+            "chance_to_harvest": 1.58
+        },
+        {
+            "name": "blobfish",
+            "value": 280,
+            "chance_to_harvest": 1.365
+        },
+        {
+            "name": "rainbow trout",
+            "value": 62,
+            "chance_to_harvest": 0.93
+        },
+        {
+            "name": "ice pip",
+            "value": 280,
+            "chance_to_harvest": 0.41
+        },
+        {
+            "name": "super cucumber",
+            "value": 155,
+            "chance_to_harvest": 0.86
+        }
+    ]
+}
